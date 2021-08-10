@@ -1,0 +1,9 @@
+post http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXJuIiwiaWQiOiI2MTEyYzc3YzQ0OWFjNzVhOWFhYTM4OTgiLCJpYXQiOjE2Mjg2MjA2NzksImV4cCI6MTYyODYyNDI3OX0.xQ6rpZ64MLKZtTr8QcJaN1mnmvx0WKk9RMsCm73J-C8
+
+{
+    "title": "newest blog ever",
+    "author": "user x",
+    "url": "google.com"
+}
