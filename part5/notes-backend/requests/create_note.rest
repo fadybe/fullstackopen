@@ -1,0 +1,8 @@
+POST http://localhost:3003/api/notes/
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXJuYW1lNSIsImlkIjoiNjExMWM1YmEwNDY4NjBkNTI5MGIwMzc5IiwiaWF0IjoxNjI4NTU0NzUzfQ.Opht7bnkhb8eYgHT-rAs4VnMW54u3flgDGv3yeBGpR8
+
+{
+    "content": "From vs code rest client",
+    "important": true
+}
