@@ -1,0 +1,9 @@
+post http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXI1IiwiaWQiOiI2MTIzYzE3NGQ4YmI1OGNmYzIwNTdhOGYiLCJpYXQiOjE2Mjk3MzMzNzgsImV4cCI6MTYyOTczNjk3OH0.hCRlXVYafatnz9d46zVPi3RObu9Yu0V_Q6betDMXpBk
+
+{
+    "title": "the end is near",
+    "author": "user5",
+    "url": "google.com"
+}

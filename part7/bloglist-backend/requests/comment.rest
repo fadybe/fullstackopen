@@ -1,0 +1,7 @@
+post http://localhost:3003/api/blogs/6123c1a2d8bb58cfc2057aa1/comments
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InVzZXIxIiwiaWQiOiI2MTIzYzE1ZWQ4YmI1OGNmYzIwNTdhN2YiLCJpYXQiOjE2Mjk3NDg5NjgsImV4cCI6MTYyOTc1MjU2OH0.t1cBmSmLmgMVVPZ6NDjMSZvv7cBb6sj68R-uIYA02wc
+
+{
+    "comment":"hello there!"
+}
